@@ -13,6 +13,7 @@
 
 ### Parent
 > https://micro-editor.github.io/
+
 > https://github.com/zyedidia/micro
 
 ![Иллюстрация к проекту](https://github.com/Apanazar/stuprum/blob/master/micro.jpg)
